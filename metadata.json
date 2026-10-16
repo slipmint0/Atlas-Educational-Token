@@ -1,0 +1,6 @@
+{
+  "name": "Web3 Contract Deployment Studio",
+  "description": "Interactive educational guide and smart contract deployment suite for ERC-20 tokens on Ethereum Sepolia and Base Sepolia testnets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
